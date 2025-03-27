@@ -4,6 +4,8 @@ Portfólio de Análise de Dados
 Bem-vindo ao meu portfólio de projetos em Análise de Dados! 🚀 Aqui compartilho projetos que demonstram minhas habilidades em coleta, tratamento, análise e visualização de dados.
 
 📌 Sobre Mim
+
+
 Sou Lucas Santil, apaixonado por dados e pela capacidade que eles têm de transformar negócios e gerar insights valiosos. Meu objetivo é aplicar minhas habilidades em Análise de Dados para resolver problemas reais e ajudar empresas a tomarem decisões estratégicas baseadas em dados.
 
 📊 O que você encontrará aqui
